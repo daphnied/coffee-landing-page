@@ -1,0 +1,19 @@
+body{
+  background: url('../img/coffee-fade.png') no-repeat center fixed;
+  background-size: cover;
+}
+
+.hero{
+  color:black;
+  margin-top: 20%;
+  text-align: center;
+  font-size: 75px;
+  letter-spacing: .1em;
+  line-height: 1.2em;
+  font-family: 'Elsie', cursive;
+}
+
+.img {
+  height: 140px;
+  width: 200px;
+}
