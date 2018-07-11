@@ -1,1 +1,1 @@
-Landing page made with Bootstrap
+Landing page developed with HTML, CSS and Bootstrap
